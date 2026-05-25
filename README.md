@@ -2,20 +2,20 @@
 
 Confusion Matrix:
 
-![image alt](https://github.com/hridibazaman03/220142_SVM/blob/33f132b5d56454e19c33375ddb70f186a519b6d7/Screenshots/SVM%20Confusion%20matrix.png)
+![image alt]()
 
 Evaluation Metrics:
 
-![image alt](https://github.com/hridibazaman03/220142_SVM/blob/33f132b5d56454e19c33375ddb70f186a519b6d7/Screenshots/SVM%20Evaluatiom%20Metrics.png)
+![image alt]()
 
 ROC Curve:
 
-![image alt](https://github.com/hridibazaman03/220142_SVM/blob/33f132b5d56454e19c33375ddb70f186a519b6d7/Screenshots/SVM%20ROC%20Curve.png).
+![image alt]().
 
 Sample Predictions:
 
-![image alt](https://github.com/hridibazaman03/220142_SVM/blob/33f132b5d56454e19c33375ddb70f186a519b6d7/Screenshots/SVM%20Sample%20predictions.png)
+![image alt]()
 
 2D Classification Plot:
 
-![image alt](https://github.com/hridibazaman03/220142_SVM/blob/33f132b5d56454e19c33375ddb70f186a519b6d7/Screenshots/SVM%20Classification%20plot.png)
+![image alt]()
